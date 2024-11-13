@@ -1,0 +1,6 @@
+ShoppingCart Project
+
+3 Pages 
+ProjectList page ---> implement adding to the cart here 
+ProjectDetails page ---> when viewing details in the productItem Component we would render this page to access a specific product Detail
+Cart List page ----> implement deleting products from the cart here 
