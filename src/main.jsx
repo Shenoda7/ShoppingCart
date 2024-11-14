@@ -1,16 +1,14 @@
-import React from "react";
-
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import "./index.css";
 import App from "./App.jsx";
-import { BrowserRouter } from "react-router-dom";
+import { HashRouter } from "react-router-dom";
 import ShoppingCartProvider from "./Context/index.jsx";
 
 createRoot(document.getElementById("root")).render(
-  <BrowserRouter>
+  <HashRouter>
     <ShoppingCartProvider>
       <App />
     </ShoppingCartProvider>
-  </BrowserRouter>
+  </HashRouter>
 );
