@@ -8,6 +8,7 @@
 - [Technologies Used](#technologies-used)
 - [Hooks Used](#hooks-used)
 - [Video Walkthrough](#video-demonstration)
+- [Checkout it out](https://shenoda7.github.io/ShoppingCart/)
 
 ## Overview
 
